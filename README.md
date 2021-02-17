@@ -1,5 +1,5 @@
 # TensorFlow Specialization
-Ruta de especialización de TensorFlow con DeepLearning.ai
+###### Ruta de especialización de TensorFlow con DeepLearning.ai
 
 1) TensorFlow Professional Developer Certificate
 - [ ] Course 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
@@ -12,7 +12,6 @@ Ruta de especialización de TensorFlow con DeepLearning.ai
 - [ ] Course 2: Device-based Models with TensorFlow Lite
 - [ ] Course 3: Data Pipelines with TensorFlow Data Services
 - [ ] Course 4: Advanced Deployment Scenarios with TensorFlow
-
 
 3) TensorFlow: Advanced Techniques Specialization
 - [ ] Course 1: Custom Models, Layers, and Loss Functions with TensorFlow
@@ -31,3 +30,9 @@ Ruta de especialización de TensorFlow con DeepLearning.ai
 - [ ] Course 3: Structuring Machine Learning Projects
 - [ ] Course 4: Convolutional Neural Networks
 - [ ] Course 5: Sequence Models
+
+6) Natural Language Processing Specialization
+- [ ] Course 1: Natural Language Processing with Classification and Vector Spaces
+- [ ] Course 2: Natural Language Processing with Probabilistic Models
+- [ ] Course 3: Natural Language Processing with Sequence Models
+- [ ] Course 4: Natural Language Processing with Attention Models
