@@ -1,5 +1,6 @@
 # TensorFlow Specialization
-###### Ruta de especialización de TensorFlow con DeepLearning.ai
+### Ruta de especialización de TensorFlow con DeepLearning.ai
+------
 
 1) TensorFlow Professional Developer Certificate
 - [ ] Course 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
