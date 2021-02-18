@@ -20,7 +20,7 @@
 - [ ] Course 3: Advanced Computer Vision with TensorFlow
 - [ ] Course 4: Generative Deep Learning with TensorFlow
 
-4) Generative Adversarial Networks Specialization
+4) Generative Adversarial Networks (GANs) Specialization
 - [ ] Course 1: Build Basic Generative Adversarial Networks (GANs)
 - [ ] Course 2: Build Better Generative Adversarial Networks (GANs)
 - [ ] Course 3: Apply Generative Adversarial Networks (GANs)
