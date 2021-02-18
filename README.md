@@ -1,5 +1,5 @@
 # TensorFlow Specialization
-### Ruta de especialización de TensorFlow con DeepLearning.ai
+### Especialización de TensorFlow con DeepLearning.ai
 
 |Date |Description|Status|
 |--- | ---- |---- |
