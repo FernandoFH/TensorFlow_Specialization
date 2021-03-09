@@ -42,3 +42,20 @@
 - [ ] Course 2: Natural Language Processing with Probabilistic Models
 - [ ] Course 3: Natural Language Processing with Sequence Models
 - [ ] Course 4: Natural Language Processing with Attention Models
+
+______
+## Extra
+
+I) Machine Learning with TensorFlow on Google Cloud Platform Specialization [Here](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+- [ ] Course 1: How Google does Machine Learning
+- [ ] Course 2: Launching into Machine Learning
+- [ ] Course 3: Introduction to TensorFlow
+- [ ] Course 4: Feature Engineering
+- [ ] Course 5: Art and Science of Machine Learning
+
+II) Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization [Here](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
+- [ ] Course 1: End-to-End Machine Learning with TensorFlow on GCP
+- [ ] Course 2: Production Machine Learning Systems
+- [ ] Course 3: Image Understanding with TensorFlow on GCP
+- [ ] Course 4: Sequence Models for Time Series and Natural Language Processing
+- [ ] Course 5: Recommendation Systems with TensorFlow on GCP
