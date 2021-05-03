@@ -43,17 +43,25 @@
 - [ ] Course 3: Natural Language Processing with Sequence Models
 - [ ] Course 4: Natural Language Processing with Attention Models
 
-______
-## Extra
+I) Google Cloud Certification: Machine Learning Engineer [Here](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
+- [ ] Course 1: Google Cloud Platform Big Data and Machine Learning Fundamentals
+- [ ] Course 2: How Google does Machine Learning
+- [ ] Course 3: Launching into Machine Learning
+- [ ] Course 4: Introduction to TensorFlow
+- [ ] Course 5: Feature Engineering
+- [ ] Course 6: Art and Science of Machine Learning
+- [ ] Course 7: Production Machine Learning Systems
+- [ ] Course 8: MLOps (Machine Learning Operations) Fundamentals
+- [ ] Course 9: ML Pipelines on Google Cloud
 
-I) Machine Learning with TensorFlow on Google Cloud Platform Specialization [Here](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+II) Machine Learning with TensorFlow on Google Cloud Platform Specialization [Here](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
 - [ ] Course 1: How Google does Machine Learning
 - [ ] Course 2: Launching into Machine Learning
 - [ ] Course 3: Introduction to TensorFlow
 - [ ] Course 4: Feature Engineering
 - [ ] Course 5: Art and Science of Machine Learning
 
-II) Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization [Here](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
+III) Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization [Here](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
 - [ ] Course 1: End-to-End Machine Learning with TensorFlow on GCP
 - [ ] Course 2: Production Machine Learning Systems
 - [ ] Course 3: Image Understanding with TensorFlow on GCP
