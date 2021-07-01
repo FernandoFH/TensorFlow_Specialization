@@ -3,7 +3,7 @@
 
 |Date |Description|Status|
 |--- | ---- |---- |
-|01/07/2021|[TensorFlow Professional Developer Certificate](./) 1/4 | In Progress|
+|01/07/2021|[TensorFlow Professional Developer Certificate](https://github.com/FernandoFH/TensorFlow_Specialization/tree/main/TensorFlow_Professional_Developer_Certificate) 1/4 | In Progress|
 
 ------
 
