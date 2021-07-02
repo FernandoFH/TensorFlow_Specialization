@@ -1,6 +1,6 @@
-|Date |Description|Status|
-|--- | ---- |---- |
-|01/07/2021|TensorFlow Professional Developer Certificate 1/4 | In Progress|
+|Date |Description| 
+|--- | ---- | 
+|01/07/2021|TensorFlow Professional Developer Certificate | 
 
 ------
 
