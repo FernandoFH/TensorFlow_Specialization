@@ -24,7 +24,7 @@
 - [ ] Course 4: Advanced Deployment Scenarios with TensorFlow
 
 3) TensorFlow: Advanced Techniques Specialization
-- [ ] Course 1: Custom Models, Layers, and Loss Functions with TensorFlow
+- [ ] Course 1: Custom Models, Layers, and Loss Functions with TensorFlow :bangbang:
 - [ ] Course 2: Custom and Distributed Training with TensorFlow
 - [ ] Course 3: Advanced Computer Vision with TensorFlow
 - [ ] Course 4: Generative Deep Learning with TensorFlow
