@@ -3,7 +3,7 @@
 
 |Date |Description|Status|
 |--- | ---- |---- |
-|01/07/2021|[TensorFlow Professional Developer Certificate](https://github.com/FernandoFH/TensorFlow_Specialization/tree/main/TensorFlow_Professional_Developer_Certificate) 1/4 | In Progress|
+|13/09/2021|[TensorFlow Professional Developer Certificate](https://github.com/FernandoFH/TensorFlow_Specialization/tree/main/TensorFlow_Professional_Developer_Certificate) 1/4 | In Progress|
 
 - [How to go from a Python newbie to a Google Certified TensorFlow Developer under two months](https://towardsdatascience.com/how-to-go-from-a-python-newbie-to-a-google-certified-tensorflow-developer-under-two-months-3d1535432284)
 
@@ -24,7 +24,7 @@
 - [ ] Course 4: Advanced Deployment Scenarios with TensorFlow
 
 3) TensorFlow: Advanced Techniques Specialization
-- [ ] Course 1: Custom Models, Layers, and Loss Functions with TensorFlow :bangbang:
+- [ ] Course 1: Custom Models, Layers, and Loss Functions with TensorFlow 
 - [ ] Course 2: Custom and Distributed Training with TensorFlow
 - [ ] Course 3: Advanced Computer Vision with TensorFlow
 - [ ] Course 4: Generative Deep Learning with TensorFlow
