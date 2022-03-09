@@ -9,7 +9,7 @@
 
 - [How I got TensorFlow Developer Certified](https://www.mrdbourke.com/how-i-got-tensorflow-developer-certified)
 
-------
+---------------
 
 1) TensorFlow Developer Professional Certificate
 - [ ] Course 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning :bangbang:
@@ -46,6 +46,14 @@
 - [ ] Course 2: Natural Language Processing with Probabilistic Models
 - [ ] Course 3: Natural Language Processing with Sequence Models
 - [ ] Course 4: Natural Language Processing with Attention Models
+
+7) Machine Learning Engineering for Production (MLOps) Specialization
+- [ ] Course 1: Introduction to Machine Learning in Production
+- [ ] Course 2: Machine Learning Data Lifecycle in Production
+- [ ] Course 3: Machine Learning Modeling Pipelines in Production
+- [ ] Course 4: Deploying Machine Learning Models in Production
+
+---------------
 
 I) Google Cloud Certification: Machine Learning Engineer [Here](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 - [ ] Course 1: Google Cloud Platform Big Data and Machine Learning Fundamentals
