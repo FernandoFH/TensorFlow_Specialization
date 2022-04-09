@@ -6,7 +6,7 @@
 |13/09/2021|[TensorFlow Professional Developer Certificate](https://github.com/FernandoFH/TensorFlow_Specialization/tree/main/TensorFlow_Professional_Developer_Certificate) 1/4 | In Progress|
 
 
-Articles : 
+### Articles : 
 - [How to go from a Python newbie to a Google Certified TensorFlow Developer under two months](https://towardsdatascience.com/how-to-go-from-a-python-newbie-to-a-google-certified-tensorflow-developer-under-two-months-3d1535432284)
 
 - [How I got TensorFlow Developer Certified](https://www.mrdbourke.com/how-i-got-tensorflow-developer-certified)
