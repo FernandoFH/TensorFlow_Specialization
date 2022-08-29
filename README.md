@@ -1,20 +1,21 @@
 # TensorFlow Specialization
 ### Especialización de TensorFlow con DeepLearning.ai
 
-|Date |Description|Status|
-|--- | ---- |---- |
-|29/08/2022|[TensorFlow Professional Developer Certificate](https://github.com/FernandoFH/TensorFlow_Specialization/tree/main/TensorFlow_Professional_Developer_Certificate) 1/4 | In Progress|
-
-1) TensorFlow Developer Professional Certificate
-- [ ] Course 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning :bangbang:
-- [ ] Course 2: Convolutional Neural Networks in TensorFlow
-- [ ] Course 3: Natural Language Processing in TensorFlow
-- [ ] Course 4: Sequences, Time Series and Prediction
+|Date |Description|Course|Status|
+|---- | --------- |------|------|
+|29/08/2022|[TensorFlow Professional Developer Certificate](https://github.com/FernandoFH/TensorFlow_Specialization/tree/main/TensorFlow_Professional_Developer_Certificate)| |🟡|
+| | | Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | |
+| | | Convolutional Neural Networks in TensorFlow | |
+| | | Natural Language Processing in TensorFlow | |
+| | | Sequences, Time Series and Prediction | |
 
 ### Articles : 
 - [How to go from a Python newbie to a Google Certified TensorFlow Developer under two months](https://towardsdatascience.com/how-to-go-from-a-python-newbie-to-a-google-certified-tensorflow-developer-under-two-months-3d1535432284)
 
 - [How I got TensorFlow Developer Certified](https://www.mrdbourke.com/how-i-got-tensorflow-developer-certified)
+
+✅​❌​🟡​
+
 
 ---------------
 
