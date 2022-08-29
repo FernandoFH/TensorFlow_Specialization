@@ -1,6 +1,6 @@
 |Date |Description| Source |
 |---- |---------- | ------ |
-|01/07/2021|TensorFlow Professional Developer Certificate | [Tensorflow in practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) 
+|01/07/2021| DeepLearning.AI TensorFlow Developer Professional Certificate | [Tensorflow in practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) 
 
 ------
 - [ ] Course 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning :bangbang:
