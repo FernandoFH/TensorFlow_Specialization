@@ -1,8 +1,8 @@
 # TensorFlow Specialization
 ### Especialización de TensorFlow con DeepLearning.ai
 
-|Date |Description|Course|Status|
-|---- | --------- |------|------|
+|Date |Specialization|Course|Status|
+|---- | ---------    |------|------|
 |27/12/2022|[DeepLearning.AI TensorFlow Developer Professional Certificate](https://github.com/FernandoFH/TensorFlow_Specialization/tree/main/TensorFlow_Professional_Developer_Certificate)| |🟡|
 | | | Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning |🟡 |
 | | | Convolutional Neural Networks in TensorFlow | |
