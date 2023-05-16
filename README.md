@@ -3,7 +3,7 @@
 
 |Date |Specialization|Course|Status|
 |---- | ---------    |------|------|
-|27/12/2022|[DeepLearning.AI TensorFlow Developer Professional Certificate](https://github.com/FernandoFH/TensorFlow_Specialization/tree/main/TensorFlow_Professional_Developer_Certificate)| |🟡|
+|16/05/2023|[DeepLearning.AI TensorFlow Developer Professional Certificate](https://github.com/FernandoFH/TensorFlow_Specialization/tree/main/TensorFlow_Professional_Developer_Certificate)| |🟡|
 | | | Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning |🟡 |
 | | | Convolutional Neural Networks in TensorFlow | |
 | | | Natural Language Processing in TensorFlow | |
