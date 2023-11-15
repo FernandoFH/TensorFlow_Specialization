@@ -1,7 +1,7 @@
 # TensorFlow Specialization
 
 ### Especialización de TensorFlow con DeepLearning.ai
-- [Resource awesome](https://github.com/FernandoFH/awesome-tensorflow)
+- [Awesome resources](https://github.com/FernandoFH/awesome-tensorflow)
 
 |Date |Specialization|Course|Status|
 |---- | ---------    |------|------|
