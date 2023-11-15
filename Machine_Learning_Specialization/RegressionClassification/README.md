@@ -4,8 +4,6 @@
 | 1 | Advanced Learning Algorithms | | 
 | 2 | Unsupervised Learning, Recommenders, Reinforcement Learning || 
 
-### 1) Supervised Machine Learning: Regression and Classification
-
 ### 2) Advanced Learning Algorithms
 
 ### 3) Unsupervised Learning, Recommenders, Reinforcement Learning
