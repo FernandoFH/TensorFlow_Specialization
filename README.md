@@ -1,5 +1,8 @@
 # TensorFlow Specialization
 
+### Que es TensorFlow?
+
+
 ### Especialización de TensorFlow con DeepLearning.ai
 - [Awesome resources](https://github.com/FernandoFH/awesome-tensorflow)
 
