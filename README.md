@@ -4,9 +4,6 @@
   - Tensor - Multidimencial Array 
   - TensorFlow Open Source 
 
-- [Tensorflow Basics Notes](https://colab.research.google.com/drive/1sovia54aKOldDICpfgUgbPKriV7Sg8KE?usp=sharing)
-
-
 ### Especialización de TensorFlow con DeepLearning.ai
 - [Awesome resources](https://github.com/FernandoFH/awesome-tensorflow)
 
