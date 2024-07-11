@@ -1,3 +1,12 @@
+# Mathematics for Machine Learning and Data Science Specialization
+
+https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science
+
+- https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science
+- https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science
+- https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science
+
+
 # TensorFlow Specialization
 
 ### Que es TensorFlow?
