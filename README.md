@@ -14,7 +14,6 @@ https://www.coursera.org/specializations/mathematics-for-machine-learning-and-da
   - TensorFlow Open Source 
 
 ### Especialización de TensorFlow con DeepLearning.ai
-- [Awesome resources](https://github.com/FernandoFH/awesome-tensorflow)
 
 |Date |Specialization|Course|Status|
 |---- | ---------    |------|------|
