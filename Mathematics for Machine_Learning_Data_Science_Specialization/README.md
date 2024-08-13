@@ -1,0 +1,7 @@
+| Date       | Specialization                                                                                                                                                 | Course                                                       | Status |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------ |
+| 13/08/2024 | [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) |                                                              | 🟡     |
+|            |                                                                                                                                                                | Linear Algebra for Machine Learning and Data Science         | 🟡     |
+|            |                                                                                                                                                                | Calculus for Machine Learning and Data Science               |        |
+|            |                                                                                                                                                                | Probability & Statistics for Machine Learning & Data Science |        |
+|            |
