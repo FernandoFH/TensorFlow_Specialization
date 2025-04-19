@@ -9,9 +9,9 @@
 
 ### Especialización de TensorFlow con DeepLearning.ai
 
-| Date | Specialization                                                                                                                                                                   | Course | Status |
-| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
-|      | [DeepLearning.AI TensorFlow Developer Professional Certificate](https://github.com/FernandoFH/TensorFlow_Specialization/tree/main/TensorFlow_Professional_Developer_Certificate) |        | 🟡     |
+| Date      | Specialization                                                                                                                                                                   | Course | Status |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| 19/APR/25 | [DeepLearning.AI TensorFlow Developer Professional Certificate](https://github.com/FernandoFH/TensorFlow_Specialization/tree/main/TensorFlow_Professional_Developer_Certificate) |        | 🟡     |
 
 ### Articles :
 
