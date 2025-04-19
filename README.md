@@ -101,3 +101,14 @@ III) Advanced Machine Learning with TensorFlow on Google Cloud Platform Speciali
 - [ ] Course 3: Image Understanding with TensorFlow on GCP
 - [ ] Course 4: Sequence Models for Time Series and Natural Language Processing
 - [ ] Course 5: Recommendation Systems with TensorFlow on GCP
+
+# Transformers Notebooks
+
+<!--This table is automatically generated, do not fill manually!-->
+
+| Chapter             | Colab                                                                                                                                                                                    |
+| :------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Introduction        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nlp-with-transformers/notebooks/blob/main/01_introduction.ipynb)   |
+| Text Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nlp-with-transformers/notebooks/blob/main/02_classification.ipynb) |
+
+<!--End of table-->
