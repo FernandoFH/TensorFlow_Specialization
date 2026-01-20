@@ -11,7 +11,7 @@
 
 | Date      | Specialization                                                                                                                                                                   | Course | Status |
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
-| 19/APR/25 | [DeepLearning.AI TensorFlow Developer Professional Certificate](https://github.com/FernandoFH/TensorFlow_Specialization/tree/main/TensorFlow_Professional_Developer_Certificate) |        | 🟡     |
+| 19/JAN/26 | [DeepLearning.AI TensorFlow Developer Professional Certificate](https://github.com/FernandoFH/TensorFlow_Specialization/tree/main/TensorFlow_Professional_Developer_Certificate) |        | 🟡     |
 
 ### Articles :
 
@@ -112,3 +112,13 @@ III) Advanced Machine Learning with TensorFlow on Google Cloud Platform Speciali
 | Text Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nlp-with-transformers/notebooks/blob/main/02_classification.ipynb) |
 
 <!--End of table-->
+
+### AI Engineer
+
+1. Fundamentos de Ingeniería​
+2. Trabaja con LLMs​
+3. RAGs (Retrieval-Augmented Generation)​
+4. Diseño de Sistemas​
+5. Observabilidad y Testing
+6. Despliegue​o.
+7. Seguridad y Compliance​
