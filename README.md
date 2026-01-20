@@ -1,11 +1,15 @@
 # Mathematics for Machine Learning and Data Science Specialization
 
+| Repositorios                                                                                               |
+| ---------------------------------------------------------------------------------------------------------- |
+| [Basics](./Basics/README.md)                                                                               |
+| [AI_For_Everyone](./AI_For_Everyone/README.md)                                                             |
+| [TensorFlow_Professional_Developer_Certificate](./TensorFlow_Professional_Developer_Certificate/README.md) |
+| [Data_Analytics_Professional](./Data_Analytics_Professional/README.md)                                     |
+| [Machine_Learning_Specialization](./Machine_Learning_Specialization/README.md)                             |
+| [NVIDIA_Learning_Paths](./NVIDIA_Learning_Paths/README.md)                                                 |
+
 # TensorFlow Specialization
-
-### Que es TensorFlow?
-
-- Tensor - Multidimencial Array
-- TensorFlow Open Source
 
 ### Especialización de TensorFlow con DeepLearning.ai
 
